@@ -49,7 +49,3 @@ I am a results-driven Lead Data Analyst with over **7.5 years of experience** sp
 *   📍 **Location:** Chennai, India
 *   💼 **LinkedIn:** [linkedin.com/in/-kishore-kumar-s](https://linkedin.com/in/-kishore-kumar-s)
 *   📧 **Email:** kishore2696@gmail.com
-
-
----
-*“Data is the fuel, but AI is the engine that converts it into progress.”*
