@@ -15,7 +15,7 @@ I am a results-driven Lead Data Analyst with over **7.5 years of experience** sp
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical stack
 
 | Category | Skills & Tools |
 | :--- | :--- |
