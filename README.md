@@ -2,7 +2,7 @@
 
 ### **Lead Data Analyst | BFSI Specialist | AI & Automation Architect**
 
-I am a results-driven Lead Data Analyst with over **7.5 years of experience** specializing in the **Banking & Insurance (BFSI)** sector. My expertise lies at the intersection of **Advanced SQL optimization**, **Business Intelligence (BI)**, and **Generative AI automation**. I focus on building compliance-ready systems that drastically reduce manual effort while accelerating strategic decision-making.
+I am a results-driven Lead Data Analyst with over **7+ years of experience** specializing in the **Banking & Insurance (BFSI)** sector. My expertise lies at the intersection of **Advanced SQL optimization**, **Business Intelligence (BI)**, and **Generative AI automation**. I focus on building compliance-ready systems that drastically reduce manual effort while accelerating strategic decision-making.
 
 ---
 
